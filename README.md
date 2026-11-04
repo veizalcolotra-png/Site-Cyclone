@@ -13,4 +13,4 @@ Linguagem:
 
 
 # Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/veizalcolotra-png/Site-Cyclone/blob/main/LICENSE)
