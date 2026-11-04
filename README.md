@@ -9,3 +9,8 @@ Linguagem:
 • HTML | CSS
 
 # Resultado Final
+
+
+
+#Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE
