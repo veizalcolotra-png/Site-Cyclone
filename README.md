@@ -2,7 +2,6 @@
 
 1° Projeto de site desenvolvido na aula de Desenvolvimento Web Front-end no 1° Semestre da materia do Curso de Engenharia de Software
 
-Ferramentas utilizadas ⚙️​
-Linguagens:
+# Ferramentas Utilizadas ⚙️​
 
-HTML | CSS
+
